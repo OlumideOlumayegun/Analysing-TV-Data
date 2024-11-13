@@ -16,4 +16,4 @@
 10. Acknowledgement
 ---
 
-See the <a href="https://github.com/OlumideOlumayegun/Analysing-TV-Data/blob/main/notebook.ipynb">Jupyter Notebook</a> for detail analysis.
+See the <a href="https://github.com/OlumideOlumayegun/Analysing-TV-Data/blob/main/notebook.ipynb">Jupyter Notebook</a> for complete analysis.
